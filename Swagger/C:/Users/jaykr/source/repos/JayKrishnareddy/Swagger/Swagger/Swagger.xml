@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Swagger</name>
+    </assembly>
+    <members>
+        <member name="M:Swagger.Controllers.WeatherForecastController.Get">
+            <summary>
+            Weather Forecast Get Method
+            </summary>
+            <returns>Json Data</returns>
+        </member>
+        <member name="M:Swagger.Controllers.WeatherForecastController.Post(System.Int32)">
+            <summary>
+            Post method in weather controller.
+            </summary>
+            <remarks>
+            Here is the sample to show remarks
+            </remarks>
+            <param name="Id">Pass the Id</param>
+            <returns>Returns a Post Message</returns>
+        </member>
+    </members>
+</doc>
