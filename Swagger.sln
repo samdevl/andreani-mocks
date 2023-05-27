@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.30717.126
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Swagger", "Swagger\Swagger.csproj", "{C37E30C2-436E-47E5-8991-21C98AA2BE3A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pedidos", "Pedidos\Pedidos.csproj", "{78563853-621C-49BC-BFDE-B15C942021D1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{C37E30C2-436E-47E5-8991-21C98AA2BE3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C37E30C2-436E-47E5-8991-21C98AA2BE3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C37E30C2-436E-47E5-8991-21C98AA2BE3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78563853-621C-49BC-BFDE-B15C942021D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78563853-621C-49BC-BFDE-B15C942021D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78563853-621C-49BC-BFDE-B15C942021D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78563853-621C-49BC-BFDE-B15C942021D1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
