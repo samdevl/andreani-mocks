@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Swagger", "Swagger\Swagger.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pedidos", "Pedidos\Pedidos.csproj", "{78563853-621C-49BC-BFDE-B15C942021D1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AltaLote", "AltaLote\AltaLote.csproj", "{77A4F19F-6B03-4F67-929E-F9750E508860}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{78563853-621C-49BC-BFDE-B15C942021D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{78563853-621C-49BC-BFDE-B15C942021D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{78563853-621C-49BC-BFDE-B15C942021D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77A4F19F-6B03-4F67-929E-F9750E508860}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77A4F19F-6B03-4F67-929E-F9750E508860}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77A4F19F-6B03-4F67-929E-F9750E508860}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77A4F19F-6B03-4F67-929E-F9750E508860}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
